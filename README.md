@@ -1,12 +1,57 @@
-# React + Vite
+# User Needs Web Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a simple web application built with **React** to address a specific user need using a public API. It demonstrates understanding of requirements, effective design, and clean implementation.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Built with React and functional components
+- Styled using [your chosen CSS method, e.g. Tailwind CSS or plain CSS]
+- Fetches data from a public API (no authentication required)
+- Responsive and user-friendly interface
 
-## Expanding the ESLint configuration
+## Getting Started
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Prerequisites
+
+- Node.js (v16+ recommended)
+- npm or yarn
+
+### Installation
+
+1. Clone the repository:
+   ```
+   git clone https://github.com/your-username/your-repo-name.git
+   cd your-repo-name
+   ```
+2. Install dependencies:
+   ```
+   npm install
+   ```
+3. Start the development server:
+   ```
+   npm start
+   ```
+   The app will run at `http://localhost:3000`.
+
+## Deployment
+
+You can deploy this app for free using [CodeSandbox](https://codesandbox.io/) or [StackBlitz](https://stackblitz.com/).
+
+## Project Structure
+
+- `src/` - Source code
+  - `components/` - Reusable React components
+  - `api/` - API fetching logic
+  - `styles/` - CSS files
+  - `types/` - TypeScript types (if using TypeScript)
+- `public/` - Static files
+- `README.md` - Project documentation
+
+## Notes
+
+- This project was developed as part of a coding challenge.
+- See the [chatGPT work link](#) for details on the problem-solving approach.
+
+## License
+
+MIT
