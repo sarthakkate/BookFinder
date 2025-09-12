@@ -35,7 +35,7 @@ This project is a simple web application built with **React** to address a speci
 
 ## Deployment
 
-You can deploy this app for free using [CodeSandbox](https://codesandbox.io/) or [StackBlitz](https://stackblitz.com/).
+You can deploy this app for free using  [StackBlitz](https://stackblitz.com/~/github.com/sarthakkate/BookFinder).
 
 ## Project Structure
 
