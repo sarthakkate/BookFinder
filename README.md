@@ -50,7 +50,7 @@ You can deploy this app for free using  [StackBlitz](https://stackblitz.com/~/gi
 ## Notes
 
 - This project was developed as part of a coding challenge.
-- See the [chatGPT work link](#) for details on the problem-solving approach.
+- See the [[chatGPT work link](https://chatgpt.com/share/68c5694c-3e9c-8008-b700-9c989b8a7cac)](#) for details on the problem-solving approach.
 
 ## License
 
